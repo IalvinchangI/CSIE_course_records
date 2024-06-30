@@ -1,0 +1,58 @@
+insert Colten Eric 70 10 10 10 20
+insert Colten Peter 60 2 2 3 70
+find Jason
+find Colten
+insert Jason John 80 7 7 7 6
+find Colten
+find Jason
+insert Eric Jason 90 8 8 8 1000
+find Jason
+find Eric
+sort ABCD
+sort Colten
+lower_to_upper ERIC
+find Eric
+lower_to_upper Eric
+update_public_target Colten 7 7 7 7 102
+update_public_target Eric 0 0 0 0 22
+find Eric
+find ERIC
+insert Eric Apple 100 7 7 7 1
+find Apple
+insert Eric JT 100 1 1 1 2
+insert Jason OwO 300 2 2 2 4
+find OwO
+find wOw
+find JT
+find JT
+find Colten
+find Eric
+find Jason
+find QQQ
+lower_to_upper ERIC
+insert ERIC Apple 100 7 7 7 1
+insert ERIC JT 100 1 1 1 2
+update_public Colten -1 -1 -1 -1 100
+update_public Colten 100 100 100 100
+update_public Colten 7 7 7 7 102
+update_public Eric 1 1 1 1 100
+update_public Colten 10 10 10 10 1299
+update_public Colten 0 0 0 0 70
+find Colten
+update_private Peter 1 1 1 100
+update_private Peter 0 0 0 77
+update_name Colten Colten
+find Colten
+update_name Colten colten
+find Colten
+find colten
+find ERIC
+find Jason
+find Peter
+find Apple
+find apple
+insert Colten Kirby 2024 10 10 10 70
+find Kirby
+insert colten Kirby 2024 10 10 10 70
+find Kirby
+quit
