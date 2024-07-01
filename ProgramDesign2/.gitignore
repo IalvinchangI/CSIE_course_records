@@ -1,0 +1,10 @@
+# testcase files
+testcase
+
+# output file
+output.txt
+output.csv
+Homework/HW5/*/corpus*.ser
+
+# bat
+*.bat

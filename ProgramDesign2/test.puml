@@ -1,0 +1,50 @@
+' @startuml test
+' (*)-->[with name & passowrd]"login"
+
+' if "user exist" then
+' --> [token]"edit /show user info/reset pw"
+' -right-> (*)
+
+' else
+' -> [token]"logout"
+' -right-> (*)
+
+' else
+' -> [token]"add task"
+' -> [token]"update/delete task"
+' -.>(*)
+' @enduml
+
+@startuml robot
+' define use case
+rectangle robot {
+    usecase 取得資料
+    usecase 交易
+    usecase 提供買賣建議
+    usecase 調整買賣設定
+        usecase 設定多少錢買入
+        usecase 設定多少錢賣出
+        usecase 設定隔多少錢要買賣
+        usecase 分別設定每個股票的買賣價格
+    usecase 預測股票
+
+}
+
+' define actor
+actor Alpaca
+actor user
+
+' line
+Alpaca == 取得資料
+Alpaca == 交易
+
+user == 交易
+user == 調整買賣設定
+    調整買賣設定 -.> 設定多少錢買入 : <<include>>
+    調整買賣設定 -.> 設定多少錢賣出 : <<include>>
+    調整買賣設定 -.> 設定隔多少錢要買賣 : <<include>>
+    調整買賣設定 -.> 分別設定每個股票的買賣價格 : <<include>>
+
+
+
+@enduml

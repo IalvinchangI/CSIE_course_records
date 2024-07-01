@@ -2,6 +2,11 @@
 # link
 *.lnk
 
+# vscode
+*.code-workspace
+.vscode/
+
+
 # ================================== C ==================================
 # Prerequisites
 *.d
