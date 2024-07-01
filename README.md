@@ -2,7 +2,7 @@
 資訊相關課程的作業紀錄
 
 ## 課程
-* **程式設計一** `ProgramDesign1`
+* #### 程式設計一 `ProgramDesign1`
 
     內容：
     1. 考試 `exam`
@@ -11,9 +11,30 @@
 
 ***
 
-* **程式設計二** `ProgramDesign2`
+* #### 程式設計二 `ProgramDesign2`
 
     內容：
     1. 期末專案 `FinalProject`
     2. 作業 `Homework`
+
+***
+
+* #### 基於遊戲的機器學習入門 `Game_AI`
+
+    作業：
+    1. 打磚塊 `Arkanoid` 
+        * 模型：KNN 
+        * 模組：scikit-learn 
+    2. 迷宮車 `Maze_Car`
+        * 模型：Decision Tree 
+        * 模組：scikit-learn 
+    3. 魷魚對戰 `swimming-squid-battle`
+        * 模型：Q-table 
+        * 模組：numpy 
+    4. 影像辨識 `Grapycal`
+        * 模型：LeNet 
+        * 模組：grapycal 
+    5. 坦克對戰 `TankMan`
+        * 模型：Q-table 
+        * 模組：numpy 
 

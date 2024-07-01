@@ -1,0 +1,36 @@
+# Arkanoid
+Arkanoid/*
+!Arkanoid/ml
+!Arkanoid/README.md
+
+
+# Maze_Car
+Maze_Car/*
+!Maze_Car/ml
+!Maze_Car/README.md
+
+
+# swimming-squid-battle
+swimming-squid-battle/*
+!swimming-squid-battle/ml
+!swimming-squid-battle/model_builder.py
+!swimming-squid-battle/model_shower.py
+!swimming-squid-battle/README.md
+
+
+# Grapycal
+Grapycal/*
+!Grapycal/Grapycal.jpg
+
+
+# TankMan
+TankMan/*
+!TankMan/ml
+!TankMan/model_builder.py
+!TankMan/model_shower.py
+!TankMan/model_train.py
+!TankMan/README.md
+
+
+# else
+conda.txt
