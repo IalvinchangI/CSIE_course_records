@@ -38,3 +38,11 @@
         * 模型：Q-table 
         * 模組：numpy 
 
+***
+
+* #### 資料結構 `DataStructure`
+
+    內容：
+    1. 作業 `Homework`
+    2. 練習 `Practice`
+
