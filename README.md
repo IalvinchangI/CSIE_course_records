@@ -47,3 +47,12 @@
     1. 作業 `Homework`
     2. 練習 `Practice`
 
+***
+
+* #### 資料科學導論 `IntroductionToDataScience`
+
+    內容：
+    1. 競賽 `Competition`
+    2. 期末專案 `FinalProject`
+    3. 作業 `Homework`
+

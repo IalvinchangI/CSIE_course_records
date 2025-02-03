@@ -1,3 +1,12 @@
 [submodule "ProgramDesign2/FinalProject"]
 	path = ProgramDesign2/FinalProject
 	url = https://github.com/IalvinchangI/PD2_Final_Project.git
+[submodule "IntroductionToDataScience/Competition/CP1"]
+	path = IntroductionToDataScience/Competition/CP1
+	url = https://github.com/IalvinchangI/DataScience402_CP1.git
+[submodule "IntroductionToDataScience/Competition/CP2"]
+	path = IntroductionToDataScience/Competition/CP2
+	url = https://github.com/IalvinchangI/DataScience402_CP2.git
+[submodule "IntroductionToDataScience/FianlProject"]
+	path = IntroductionToDataScience/FianlProject
+	url = https://github.com/IalvinchangI/DataScience402_Final.git
