@@ -8,6 +8,7 @@
     1. 考試 `exam`
     2. 作業 `Homework`
     3. 助教課實作 `TA_class`
+    4. 練習 `Practice`
 
 ***
 
