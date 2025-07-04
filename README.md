@@ -74,4 +74,18 @@
     1. 各地區長照涵蓋率落差之觀察 `project1`
     2. Instagram Reels 流量分析 `project2`
 
+***
+
+* #### 量子計算導論 `IntroductionToQuantumComputation`
+
+    期末專案：
+    1. implement 2-qubit Grover’s algorithm `GroverAlgorithm.py`
+    2. the 3-qubit quantum Fourier transform `FourierTransform.py`
+    3. verify Bell inequality `BellInequality.py`
+    
+    程式庫：
+    * 電路生成與執行的工具、結果計算的工具 `QuantumTool.py`
+    * 和 IBMQ 網站有關的工具 `Load.py`
+    * 輸出結果與電路圖的工具 `FormalOutput.py`
+    * IBMQ API token `IBMQ_API_Token.py`
 

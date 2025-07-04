@@ -1,0 +1,13 @@
+# output file
+*_experiment_data.txt
+*_error_data*.txt
+*_error_data*.csv
+*_pauli_counts.csv
+*_circuit_diagram*.jpg
+*_density_matrix.jpg
+
+# TOKEN
+IBMQ_API_Token.py
+
+# else
+else
