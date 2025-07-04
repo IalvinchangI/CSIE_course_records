@@ -56,3 +56,14 @@
     2. 期末專案 `FinalProject`
     3. 作業 `Homework`
 
+***
+
+* #### 計算機組織 `ComputerOrganization`
+
+    作業：
+    1. 測試環境 `HW0`
+    2. 練習 RISC-V 指令集 `HW1`
+    3. 比較各實作方法下的效能 `HW2`
+    4. 針對 cache 優化程式效能 `HW3`
+
+

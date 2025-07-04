@@ -2,6 +2,9 @@
 # link
 *.lnk
 
+# chdir
+change_working_directory.bat
+
 # vscode
 *.code-workspace
 .vscode/

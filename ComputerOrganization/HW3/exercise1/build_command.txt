@@ -1,0 +1,7 @@
+# under riskv-isa-sim
+ 
+mkdir build
+cd build
+../configure --prefix=$RISCV
+make
+sudo make install
