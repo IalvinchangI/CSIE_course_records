@@ -66,4 +66,12 @@
     3. 比較各實作方法下的效能 `HW2`
     4. 針對 cache 優化程式效能 `HW3`
 
+***
+
+* #### 資料視覺化與探索 `DataVisualizationAndExploration`
+
+    報告：
+    1. 各地區長照涵蓋率落差之觀察 `project1`
+    2. Instagram Reels 流量分析 `project2`
+
 
