@@ -101,3 +101,26 @@
     4. 操作周邊元件或裝置的工具的 library `HardwareTools`
         * 此 library 將周邊元件或裝置的初始配置等包在 `*_Initialize` 的函式內，使用者只須呼叫它就能自動完成配置
         * 周邊元件或裝置的操作也包裝起來，方便使用
+
+***
+
+* #### 作業系統 `OperatingSystems`
+
+    作業：
+    1. Inter Process Communication (IPC) `Lab1`
+        * Shared Memory
+        * Message Passing (mailbox)
+    2. Simple Shell `Lab2`
+        * built-in commands (cd, pwd)
+        * external commands
+        * redirection
+        * pipe
+    3. Multithreading Program (Pthread) & Linux Kernel Module `Lab3`
+        * `1-1`: pthread spin lock
+        * `1-2`: atomic operation (`xchg`)
+        * `2-1`: matrix multiplication with single thread
+        * `2-2`: matrix multiplication with two threads
+        * `3-1`: proc file read
+        * `3-2`: proc file read and write
+    4. Overly Simplified File System (OSFS) `Lab4`
+        * file allocation strategy: Indexed Allocation
