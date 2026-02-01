@@ -89,3 +89,15 @@
     * 輸出結果與電路圖的工具 `FormalOutput.py`
     * IBMQ API token `IBMQ_API_Token.py`
 
+***
+
+* #### 微算機原理與應用 `MicroprocessorPrinciplesAndApplications`
+
+    內容：
+    1. 期末專案 `FinalProject`
+    2. 作業 `Homework`
+    3. 用組合語言寫的工具的 library `BasicOperation`
+        * 此 library 提供 16 位元的加減乘除以及位元運算（PIC18F4520 只支援 8 位元運算）
+    4. 操作周邊元件或裝置的工具的 library `HardwareTools`
+        * 此 library 將周邊元件或裝置的初始配置等包在 `*_Initialize` 的函式內，使用者只須呼叫它就能自動完成配置
+        * 周邊元件或裝置的操作也包裝起來，方便使用
