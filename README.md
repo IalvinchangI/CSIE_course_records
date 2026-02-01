@@ -157,3 +157,15 @@
         |Embedded multiplier 9-bit elements |0                      |
         |Pre-Sim Clock Period (ns)          |25                     |
         |Total Cycle Used                   |521 + 271 + 634 = 1426 |
+
+***
+
+* #### 多處理機平行程式設計 `ParallelProgrammingInCForMultiprocessor`
+
+    作業：
+    1. 測試環境 `HW1`
+    2. MPI `HW2`
+    3. MPI `HW3`
+    4. pthread `HW5`
+    5. openMP `HW6`
+    6. 用 蟻群演算法 (ACO) 解 旅行推銷員問題 (TSP) `HW7`
