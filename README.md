@@ -124,3 +124,36 @@
         * `3-2`: proc file read and write
     4. Overly Simplified File System (OSFS) `Lab4`
         * file allocation strategy: Indexed Allocation
+
+***
+
+* #### 數位IC設計 `DigitalICDesign`
+
+    作業：
+    1. 4-bit Ripple Carry Adder `HW1`
+        * Half Adder `HA`
+        * Full Adder `FA`
+        * Ripple Carry Adder `RCA`
+    2. Modular Multiplier `HW2`
+    3. Local Binary Patterns `HW3`
+    4. Synchronous FIFO & Four-Banked FIFO Interface `HW4`
+        * Synchronous FIFO `FIFO_sync`
+        * Four-Banked FIFO `FourBankFIFO`
+    5. Number Theoretic Transform `HW5`
+        |Synthesis Result                   |       |
+        |-----------------------------------|-------|
+        |Total logic elements               |24749  |
+        |Total registers                    |6009   |
+        |Total memory bits                  |0      |
+        |Embedded multiplier 9-bit elements |7      |
+        |Pre-Sim Clock Period (ns)          |26     |
+        |Total Cycle Used                   |10272  |
+    6. Sudoku `HW6`
+        |Synthesis Result                   |                       |
+        |-----------------------------------|-----------------------|
+        |Total logic elements               |3028                   |
+        |Total registers                    |417                    |
+        |Total memory bits                  |0                      |
+        |Embedded multiplier 9-bit elements |0                      |
+        |Pre-Sim Clock Period (ns)          |25                     |
+        |Total Cycle Used                   |521 + 271 + 634 = 1426 |
