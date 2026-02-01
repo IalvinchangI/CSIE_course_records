@@ -13,3 +13,6 @@
 [submodule "TheoryOfComputation/FinalProject"]
 	path = TheoryOfComputation/FinalProject
 	url = https://github.com/Mason1217/TOC_final_project.git
+[submodule "MicroprocessorPrinciplesAndApplications/FinalProject"]
+	path = MicroprocessorPrinciplesAndApplications/FinalProject
+	url = https://github.com/IalvinchangI/Microprocessor_FinalProject.git
