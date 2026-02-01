@@ -169,3 +169,10 @@
     4. pthread `HW5`
     5. openMP `HW6`
     6. 用 蟻群演算法 (ACO) 解 旅行推銷員問題 (TSP) `HW7`
+
+***
+
+* #### 計算理論 `TheoryOfComputation`
+
+    內容：
+    1. Fact-checking AI Agent `FinalProject`

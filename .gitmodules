@@ -10,3 +10,6 @@
 [submodule "IntroductionToDataScience/FianlProject"]
 	path = IntroductionToDataScience/FianlProject
 	url = https://github.com/IalvinchangI/DataScience402_Final.git
+[submodule "TheoryOfComputation/FinalProject"]
+	path = TheoryOfComputation/FinalProject
+	url = https://github.com/Mason1217/TOC_final_project.git
