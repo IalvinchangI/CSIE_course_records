@@ -16,3 +16,6 @@
 [submodule "MicroprocessorPrinciplesAndApplications/FinalProject"]
 	path = MicroprocessorPrinciplesAndApplications/FinalProject
 	url = https://github.com/IalvinchangI/Microprocessor_FinalProject.git
+[submodule "IntroductionToDigitalSystem/FinalProject"]
+	path = IntroductionToDigitalSystem/FinalProject
+	url = https://github.com/IalvinchangI/DigitalSystem_FinalProject.git

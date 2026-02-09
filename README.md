@@ -49,6 +49,24 @@
 
 ***
 
+* #### 數位系統導論 `IntroductionToDigitalSystem`
+
+    內容：
+    1. 作業 `Homework`
+        1. Half Adder & Full Adder `Lab5_Adder`
+        2. Adder_Subtractor & Encoder `Lab6`
+        3. Specialized Multiplier `Lab7_Specialized_Multiplier`
+        4. Counter `Lab8_up_down_counter`
+        5. Moore Machine `Lab9_moore_machine`
+        6. Dot Matrix `Lab10_dot_matrix_display`
+        7. Traffic Light `Lab11_traffic_light`
+        8. Keypad `Bonus1_keypad_controller`
+        9. VGA `Bonus2_VGA_Adjustable`
+
+    2. 圈叉圈叉 `FinalProject`
+
+***
+
 * #### 資料科學導論 `IntroductionToDataScience`
 
     內容：
