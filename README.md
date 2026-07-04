@@ -225,3 +225,15 @@
     1. OpenGL 練習 `HW1`
     2. Morph `HW2`
     3. Scene Graph `HW3`
+
+***
+
+* #### 訊號與系統 `SignalsAndSystems`
+
+    作業：
+    1. Discrete-Time & Continuous Signal `HW1`
+    2. Convolusion `HW2`
+    3. Laplace `HW3`
+    4. z-Transform `HW4`
+    5. DTFT & FFT `HW5`
+    6. Downsample vs. Resample `HW6`
