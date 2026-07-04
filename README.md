@@ -216,3 +216,12 @@
         1. Basic — Text2SQL Skill
         2. Pairwise — Code-Author & Bug-Hunter
         3. Open Track — *Poetry Skill*
+
+***
+
+* #### 繪圖技術設計與應用 `IntroductionToRenderingMethodsProgrammingAndApplications`
+
+    作業：
+    1. OpenGL 練習 `HW1`
+    2. Morph `HW2`
+    3. Scene Graph `HW3`

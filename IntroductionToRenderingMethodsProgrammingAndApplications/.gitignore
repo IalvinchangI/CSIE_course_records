@@ -1,0 +1,7 @@
+thirdparty/
+Test/
+*.pkl
+
+# assets
+!HW1/resources/model/*
+!HW3/assets/*
