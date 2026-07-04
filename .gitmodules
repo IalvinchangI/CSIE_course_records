@@ -19,3 +19,18 @@
 [submodule "IntroductionToDigitalSystem/FinalProject"]
 	path = IntroductionToDigitalSystem/FinalProject
 	url = https://github.com/IalvinchangI/DigitalSystem_FinalProject.git
+[submodule "GenerativeAIApplicationSystemsAndEngineering/HW1"]
+	path = GenerativeAIApplicationSystemsAndEngineering/HW1
+	url = https://github.com/Netdb-NCKU/hw1-markdown-creation-and-rendering-practice-IalvinchangI.git
+[submodule "GenerativeAIApplicationSystemsAndEngineering/HW2"]
+	path = GenerativeAIApplicationSystemsAndEngineering/HW2
+	url = https://github.com/Netdb-NCKU/hw2-implementation-of-sdd-specification-optimization-IalvinchangI.git
+[submodule "GenerativeAIApplicationSystemsAndEngineering/HW3"]
+	path = GenerativeAIApplicationSystemsAndEngineering/HW3
+	url = https://github.com/Netdb-NCKU/hw3-build-your-personal-rag-IalvinchangI-1.git
+[submodule "GenerativeAIApplicationSystemsAndEngineering/HW4"]
+	path = GenerativeAIApplicationSystemsAndEngineering/HW4
+	url = https://github.com/Netdb-NCKU/hw4-pi-memory-IalvinchangI.git
+[submodule "GenerativeAIApplicationSystemsAndEngineering/Final"]
+	path = GenerativeAIApplicationSystemsAndEngineering/Final
+	url = https://github.com/Netdb-NCKU/final-project-IalvinchangI.git

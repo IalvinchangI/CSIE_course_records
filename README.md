@@ -202,3 +202,17 @@
     作業：
     1. Scanner `HW1`
     2. Parser + Code Generator `HW2`
+
+***
+
+* #### 生成式AI應用系統與工程 `GenerativeAIApplicationSystemsAndEngineering`
+
+    作業：
+    1. Markdown 創作與渲染實作 - *Markdown Slide Rendering (Marp Workflow)* `HW1`
+    2. 規格 SDD 優化實作 - *ModelMop* `HW2`
+    3. 打造你的個人知識 RAG 系統 - *數位孿生 RAG 系統：模擬特定人物說話習慣、風格、價值觀* `HW3`
+    4. 為本地 Coding Agent 打造記憶機制（Pi Memory） `HW4`
+    5. 在 Hermes Agent 上打造可驗證的 Skill `Final`
+        1. Basic — Text2SQL Skill
+        2. Pairwise — Code-Author & Bug-Hunter
+        3. Open Track — *Poetry Skill*
