@@ -194,3 +194,11 @@
 
     內容：
     1. Fact-checking AI Agent `FinalProject`
+
+***
+
+* #### 編譯系統 `CompilerConstruction`
+
+    作業：
+    1. Scanner `HW1`
+    2. Parser + Code Generator `HW2`
