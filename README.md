@@ -2,6 +2,8 @@
 資訊相關課程的作業紀錄
 
 ## 課程
+
+### 大一上
 * #### 程式設計一 `ProgramDesign1`
 
     內容：
@@ -10,8 +12,9 @@
     3. 助教課實作 `TA_class`
     4. 練習 `Practice`
 
-***
+<br>
 
+### 大一下
 * #### 程式設計二 `ProgramDesign2`
 
     內容：
@@ -39,8 +42,9 @@
         * 模型：Q-table 
         * 模組：numpy 
 
-***
+<br>
 
+### 大二上
 * #### 資料結構 `DataStructure`
 
     內容：
@@ -74,8 +78,9 @@
     2. 期末專案 `FinalProject`
     3. 作業 `Homework`
 
-***
+<br>
 
+### 大二下
 * #### 計算機組織 `ComputerOrganization`
 
     作業：
@@ -107,8 +112,9 @@
     * 輸出結果與電路圖的工具 `FormalOutput.py`
     * IBMQ API token `IBMQ_API_Token.py`
 
-***
+<br>
 
+### 大三上
 * #### 微算機原理與應用 `MicroprocessorPrinciplesAndApplications`
 
     內容：
@@ -195,8 +201,9 @@
     內容：
     1. Fact-checking AI Agent `FinalProject`
 
-***
+<br>
 
+### 大三下
 * #### 編譯系統 `CompilerConstruction`
 
     作業：
@@ -208,9 +215,9 @@
 * #### 生成式AI應用系統與工程 `GenerativeAIApplicationSystemsAndEngineering`
 
     作業：
-    1. Markdown 創作與渲染實作 - *Markdown Slide Rendering (Marp Workflow)* `HW1`
-    2. 規格 SDD 優化實作 - *ModelMop* `HW2`
-    3. 打造你的個人知識 RAG 系統 - *數位孿生 RAG 系統：模擬特定人物說話習慣、風格、價值觀* `HW3`
+    1. Markdown 創作與渲染實作 — *Markdown Slide Rendering (Marp Workflow)* `HW1`
+    2. 規格 SDD 優化實作 — *ModelMop* `HW2`
+    3. 打造你的個人知識 RAG 系統 — *數位孿生 RAG 系統：模擬特定人物說話習慣、風格、價值觀* `HW3`
     4. 為本地 Coding Agent 打造記憶機制（Pi Memory） `HW4`
     5. 在 Hermes Agent 上打造可驗證的 Skill `Final`
         1. Basic — Text2SQL Skill
@@ -222,9 +229,9 @@
 * #### 繪圖技術設計與應用 `IntroductionToRenderingMethodsProgrammingAndApplications`
 
     作業：
-    1. OpenGL 練習 `HW1`
-    2. Morph `HW2`
-    3. Scene Graph `HW3`
+    1. OpenGL 練習 [`HW1`](./IntroductionToRenderingMethodsProgrammingAndApplications/HW1/README.md)
+    2. Morph [`HW2`](./IntroductionToRenderingMethodsProgrammingAndApplications/HW2/README.md)
+    3. Scene Graph [`HW3`](./IntroductionToRenderingMethodsProgrammingAndApplications/HW3/README.md)
 
 ***
 
